@@ -1,0 +1,192 @@
+*{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: linear-gradient(90deg, #478D71,#2E5C49,#495C54 );
+    background-attachment: fixed;
+}
+.nome h1{
+    margin-top: 0.9%;
+    display: flex;
+    width: 400px;
+    margin-left: 40%;
+    justify-content:center ;
+    border-radius: 12px;
+    background-color: azure;
+    font-size: 47px;
+    color: rgb(71, 141, 114);
+    text-align: center;
+}
+.nome img{
+    margin-bottom: -8%;
+    margin-left: 31%;
+    margin-bottom: -3%;
+    width: 4%;
+}
+
+.parque{
+    background-image: url(imagens/parquecanoas.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 650px;
+    opacity: 0.5;
+    transition: 1.5s;
+}
+
+.anda h1{
+    padding: 0.3%;
+    background-color: azure;
+    border-radius: 15px;
+    width: 400px;
+    display: flex;
+    margin-left: 40%;
+    justify-content: center;
+    color: rgb(71, 141, 114);
+    margin-top: 3%;
+    text-align: center;
+    font-size: 30px;
+}
+
+.linha{
+    height: 6px;
+    width: 100%;
+    background-color: beige;
+}
+.parque:hover{
+    opacity: 1.0;
+}
+.paragrafo1 p{
+    padding: 1%;
+    margin: 2%;
+    font-size: 20px;
+    color: azure;
+    border-bottom: 2px solid azure;
+    text-indent: 33px;
+
+}
+
+.grafico img{
+    width: 35%;
+    margin-top: -16%;
+    margin-left: 58%;
+}
+.grafico p{
+    color: azure;
+    font-size: 20px;
+    padding: 1%;
+    margin: 1%;
+    margin-left: 2%;
+    margin-top: 5%;
+    text-indent: 33px;
+}
+.linhaa{
+    margin-left: 2.5%;
+    margin-top: -11%;
+    background-color: azure;
+    width: 45%;
+    height: 2px;
+}
+.arrumar h1{
+    padding: 0.3%;
+    background-color: azure;
+    border-radius: 15px;
+    width: 400px;
+    display: flex;
+    margin-left: 40%;
+    justify-content: center;
+    color: rgb(71, 141, 114);
+    margin-top: 15%;
+    text-align: center;
+    font-size: 30px;
+}
+.row{
+    margin-top: 3%;
+    margin-left: 4%;
+}
+.fisico h2{
+    margin: 1%;
+    padding: 1%;
+    text-align: center;
+    color: azure;
+}
+.card img{
+    width: 286px;
+    height: 170px;
+    padding: 1%;
+}
+.card-body p{
+    font-size: 17px;
+}
+.mental h2{
+    margin: 1%;
+    padding: 1%;
+    text-align: center;
+    color: azure;
+}
+.ods h1{
+    padding: 0.3%;
+    background-color: azure;
+    border-radius: 15px;
+    width: 400px;
+    display: flex;
+    margin-left: 40%;
+    justify-content: center;
+    color: rgb(71, 141, 114);
+    margin-top: 3%;
+    text-align: center;
+    font-size: 30px;
+}
+.ods p{
+    padding: 1%;
+    margin: 2%;
+    font-size: 20px;
+    color: azure;
+    border-bottom: 2px solid azure;
+    text-indent: 33px;
+}
+.rodape{
+    background-image: linear-gradient(90deg,#0B0B0B,#171D1F );
+    border-radius: 10px;
+    width: 100%;
+    height: 200px;
+}
+.rodape h1{
+    text-align: center;
+    margin: 1%;
+    padding: 1%;
+    color: azure;
+    font-size: 20px;
+    
+    
+
+}
+.rodape p{
+    margin: 1%;
+    padding: 1%;
+    color: azure;
+    font-size: 20px;
+}
+.rodape a{
+    text-decoration: none;
+}
+.videos{
+    margin-left: 25%;
+    margin-top: 1%;
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    height: 200px;
+}
+.videodicas h2{ 
+    border-bottom: solid azure;
+    text-align: center;
+    margin: 1%;
+    padding: 1%;
+    color: azure;
+    font-size: 20px;
+
+}
