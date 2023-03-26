@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="imagem/jpg" href="imagens/double.png"/>
+    <title> ODS 3 </title>
+</head>
+
+<body>
+
+    <!-- HEADER -->
+    <section class="Header">
+        <div class="nome">
+            <h1> <b>Saúde e Bem-Estar</b> </h1>
+            <img src="" />
+        </div>
+        <div class="parque">
+        </div>
+    </section>
+
+    <!-- Falando sobre a saude atual -->
+    <section class="saude">
+
+        <!-- LINHA BRANCA-->
+        <div class="linha">
+        </div>
+        <div class="atual">
+            <div class="anda">
+                <h1> COMO ESTÁ NOSSA SAÚDE </h1>
+            </div>
+            <div class="paragrafo1">
+                <p> A Pesquisa Nacional de Saúde (PNS) 2022 divulgada pelo Instituto Brasileiro de Geografia e
+                    Estátisticas (IBGE) mostra que, na população de 18 anos ou mais de idade, 40,3% foram classificados
+                    como insuficientemente ativos, ou seja, não praticaram atividade física ou praticaram por menos do
+                    que 150 minutos por semana considerando lazer, trabalho e deslocamento para o trabalho. <br> No
+                    Brasil, 47,5% das mulheres eram pouco ativas em 2019. Já os homens apresentaram uma taxa de 32,1%.
+                    Mais da metade (59,7%) das pessoas de 60 anos ou mais de idade era insuficientemente ativa, e o
+                    grupo de idade menos sedentário foi o de 18 a 24 anos de idade (32,8%), seguido do grupo de 25 a 39
+                    anos (32,9%).<br> Além do sedentarismo, a PNS, feita em 108 mil domicílios em parceria com o
+                    Ministério da Saúde, investigou outros fatores de risco para o desenvolvimento de doenças crônicas,
+                    como o consumo de álcool. </p>
+                <p> A sáude Mental atualmente também não fica para trás, referente as outras, Segundo o Instituto de
+                    Estudos de Saúde Suplementar (IESS), consultas com psiquiatras tiveram crescimento de 44,5% em cinco
+                    anos. O número de consultas subiu de 3,4 milhões para 4,9 milhões.<br> Mesmo antes da pandemia, o
+                    Brasil era o país com maior prevalência de ansiedade. Segundo um estudo de 2017 da OMS, 18 milhões
+                    de brasileiros sofriam com transtornos de ansiedade. Isso equivalia a 9,3% da população. Já a
+                    depressão afetava 12 milhões de pessoas no país, sendo a maior incidência da América Latina.</p>
+            </div>
+            <div class="grafico">
+                <p>
+                    Ao lado podemos ver como está nossa situação e quão preocupante está,<br> em termos globais,o
+                    inquérito
+                    – foi realizado entre os dias 13 e 17 de julho a <br>1.217 pessoas<br> – permite concluir, no
+                    entanto, que a
+                    maioria das pessoas considera<br>que o seu estado de saúde mental não se alterou com a pandemia
+                    (62%),<br>
+                    apesar de uma franja considerável,perto de um terço (30%), se sentir pior.
+                </p>
+                <img src="imagens/saudementalgrafico1.jpg" />
+                <div class="linhaa">
+                </div>
+
+            </div>
+        </div>
+
+    </section>
+
+    <!-- Melhorar a saúde-->
+    <section class="melhorar">
+        <div class="arrumar">
+            <h1> COMO PODEMOS MELHORAR/MUDAR</h1>
+        </div>
+
+        <div class="fisico">
+            <h2> Físico</h2>
+        </div>
+
+        <div class="container text-center">
+            <div class="row">
+                <div class="col">
+                    <div class="card" style="width: 18rem;">
+                        <!-- TREINO -->
+                        <img src="imagens/treinocard.jfif" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <p class="card-text"> Devemos praticar exercícios físicos todos os dias, mínimo 75 minutos
+                                por dia.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card" style="width: 18rem;">
+                        <!-- BEBIDAS -->
+                        <img src="imagens/bebida.jfif" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <p class="card-text"> Reduzindo o consumo de bebidas alcólicas.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card" style="width: 18rem;">
+                        <!-- PRATO DE ALIMENTAÇÂO -->
+                        <img src="imagens/prato.jfif" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <p class="card-text">Controlando a sua alimentação, regularmente.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="container text-center">
+            <div class="row">
+                <div class="col">
+                    <div class="card" style="width: 18rem;">
+                        <!-- Agua -->
+                        <img src="imagens/aguinha.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <p class="card-text"> Beber no mínimo 2L de água por dia.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card" style="width: 18rem;">
+                        <!-- Cigarro -->
+                        <img src="imagens/cigarro.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <p class="card-text">Não consumir o uso de cigarro/drogas.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card" style="width: 18rem;">
+                        <!-- Sono -->
+                        <img src="imagens/zzzz.png" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <p class="card-text"> Dormir 8 horas diáriamente.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Mental -->
+        <div class="mental">
+            <h2> Mental</h2>
+        </div>
+        <div class="melhorarmental">
+            <div class="container text-center">
+                <div class="row">
+                    <div class="col">
+                        <div class="card" style="width: 18rem;">
+                            <!-- Estresse -->
+                            <img src="imagens/extresse.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <p class="card-text"> Aprender a lidar com as situações advérsas do trabalho.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card" style="width: 18rem;">
+                            <!-- Relacionamentos -->
+                            <img src="imagens/relacionamento.png" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <p class="card-text"> Devemos zelar pelos nossos relacionamentos.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card" style="width: 18rem;">
+                            <!-- Personalidade -->
+                            <img src="imagens/personalidade.png" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <p class="card-text"> Necessitamos manter nosso jeito, nossa liberdade de pensar
+                                    diferente e agir diferente.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Segunda coluna Mental-->
+            <div class="container text-center">
+                <div class="row">
+                    <div class="col">
+                        <div class="card" style="width: 18rem;">
+                            <!-- Metas -->
+                            <img src="imagens/stonks.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <p class="card-text"> Carecemos de objetivos/metas na nossa vida.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card" style="width: 18rem;">
+                            <!-- Terapia -->
+                            <img src="imagens/terapia.png" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <p class="card-text"> Manter contato sempre com psicológos.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card" style="width: 18rem;">
+                            <!-- Ajuda -->
+                            <img src="imagens/ajuda.png" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <p class="card-text"> Não ter medo de pedir ajuda em momentos de dificuldades e entender
+                                    que sempre estamos aprendendo.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- VIDEOS DE APOIO-->
+        <div class="videodicas">
+            <h2> Alguns videos para ajudar</h2>
+        </div>
+        <div class="videos">
+            <iframe src="https://www.youtube.com/embed/CrwRwgNJIMU" frameborder="0"></iframe>
+            <iframe src="https://www.youtube.com/embed/i7QwQPiAa0A" frameborder="0"></iframe>
+            <iframe src="https://www.youtube.com/embed/BnHqNkDbgvw" frameborder="0"></iframe>
+
+        </div>
+    </section>
+
+    <section class="ods">
+        <div class="ODS">
+            <h1> Para que serve a ODS 3</h1>
+            <p> A ODS 3 foi criada para visar garantir uma vida saudável e promover o bem-estar para todas as pessoas de
+                qualquer idade, garantindo
+                assim o desenvolvimento sustentável. Entre suas várias metas merecem destaque a <b>redução da taxa de
+                    mortalidade</b> materna e acabar com as mortes evitáveis de recém-nascidos e crianças menores de 5
+                anos.
+            </p>
+        </div>
+    </section>
+    <!-- Rodape -->
+    <section class="default">
+        <div class="rodape">
+            <h1> Utilizei esse site <a
+                    href="https://beecorp.com.br/saude-fisica-mental-e-social/">https://beecorp.com.br/saude-fisica-mental-e-social/</a>
+                como apoio.</h1>
+            <P>Nome:<a target="_blank" href="https://www.instagram.com/bazotti_pedro/"> Pedro H. Bazotti da Silva</a></P>
+        </div>
+
+    </section>
+
+</body>
+
+</html>
